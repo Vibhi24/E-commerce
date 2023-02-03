@@ -5,7 +5,7 @@
         "price" : "Rs. 1999"
     },
     {
-        "title": "Men White Printed Shirt",
+        "title": "Men's White Printed Shirt",
         "image" : "../assets/two.png",
         "price" : "Rs. 1199"
     },
@@ -25,12 +25,12 @@
         "price" : "Rs. 899"
     },
     {
-        "title": "Men Black Watch",
+        "title": "Men's Grey Analogue Watch",
         "image" : "../assets/six.png",
         "price" : "Rs. 2999"
     },
     {
-        "title": "Men Black Sliders",
+        "title": "Puma Men's Black Sliders",
         "image" : "../assets/seven.png",
         "price" : "Rs. 2399"
     },
@@ -40,7 +40,7 @@
         "price" : "Rs. 1999"
     },
     {
-        "title": "Men Grey Jeans",
+        "title": "Levis Men Grey Stretchable Jeans",
         "image" : "../assets/nine.png",
         "price" : "Rs. 1499"
     },
@@ -55,7 +55,7 @@
         "price" : "Rs. 4499"
     },
     {
-        "title": "Women Black Cardigan",
+        "title": "Only Women's Black Cardigan",
         "image" : "../assets/twelve.png",
         "price" : "Rs. 999"
     }
