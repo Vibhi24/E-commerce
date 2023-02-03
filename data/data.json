@@ -1,6 +1,6 @@
 [
     {
-        "title": "Women White Printed Sweatshirt",
+        "title": "Women White Printed Casual Sweatshirt",
         "image" : "../assets/one.png",
         "price" : "Rs. 1999"
     },
@@ -20,7 +20,7 @@
         "price" : "Rs. 2499"
     },
     {
-        "title": "Men Blue Printed T-shirt",
+        "title": "Men Blue Printed Applique T-shirt",
         "image" : "../assets/five.png",
         "price" : "Rs. 899"
     },
@@ -30,7 +30,7 @@
         "price" : "Rs. 2999"
     },
     {
-        "title": "Puma Men's Black Sliders",
+        "title": "Puma Men's Black FlipFlops",
         "image" : "../assets/seven.png",
         "price" : "Rs. 2399"
     },
