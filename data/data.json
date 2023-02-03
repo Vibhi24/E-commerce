@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Women White Printed Sweatshirt",
+        "image" : "../assets/one.png",
+        "price" : "Rs. 1999"
+    },
+    {
+        "title": "Men White Printed Shirt",
+        "image" : "../assets/two.png",
+        "price" : "Rs. 1199"
+    },
+    {
+        "title": "Women Green Crop Pullover",
+        "image" : "../assets/three.png",
+        "price" : "Rs. 999"
+    },
+    {
+        "title": "Off-white Quilted Handbag",
+        "image" : "../assets/four.png",
+        "price" : "Rs. 2499"
+    },
+    {
+        "title": "Men Blue Printed T-shirt",
+        "image" : "../assets/five.png",
+        "price" : "Rs. 899"
+    },
+    {
+        "title": "Men Black Watch",
+        "image" : "../assets/six.png",
+        "price" : "Rs. 2999"
+    },
+    {
+        "title": "Men Black Sliders",
+        "image" : "../assets/seven.png",
+        "price" : "Rs. 2399"
+    },
+    {
+        "title": "Women Cream-coloured Solid Pumps",
+        "image" : "../assets/eight.png",
+        "price" : "Rs. 1999"
+    },
+    {
+        "title": "Men Grey Jeans",
+        "image" : "../assets/nine.png",
+        "price" : "Rs. 1499"
+    },
+    {
+        "title": "Women Black Leather Jacket",
+        "image" : "../assets/ten.png",
+        "price" : "Rs. 3999"
+    },
+    {
+        "title": "Sketchers Women Pink Sneakers",
+        "image" : "../assets/eleven.png",
+        "price" : "Rs. 4499"
+    },
+    {
+        "title": "Women Black Cardigan",
+        "image" : "../assets/twelve.png",
+        "price" : "Rs. 999"
+    }
+]
